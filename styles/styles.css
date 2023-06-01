@@ -1,0 +1,66 @@
+body {
+font-family: 'Rajdhani',
+sans-serif;
+}
+
+.main {
+    width: 700px;
+    height: 300px;
+    background-color: lightgrey;
+}
+
+.image {
+    width: 35%;
+    height: 100%;
+    float: right;
+}
+.image img {
+    display: block;
+    height: 100%;
+    margin: auto;
+    border-radius: 10%;
+}
+
+.info {
+    width: 65%;
+    float: left;
+}
+
+h1 {
+    text-align: center;
+    word-spacing: 10px;
+}
+p {
+    text-align: left;
+    margin-left: 2%;
+    font-size: 32px;
+    margin-top: -2%;
+}
+.skills p {
+font-size: 32px;
+display: block;
+margin-top: -5%;
+}
+ul {
+    margin-top: -5%;
+}
+li {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.tel {
+    float: left;
+    margin-left: 10%;
+}
+.mail {
+    float: right;
+    margin-right: 10%;
+
+}
+.contacts span {
+    font-weight: 600;
+}
+.contacts {
+    margin-top: -1%;
+}
